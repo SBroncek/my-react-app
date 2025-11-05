@@ -1,2 +1,2 @@
-print("Hello, World!")
-print("Hello, Coding!")
+print("Hello, Hell!")
+# spooky
